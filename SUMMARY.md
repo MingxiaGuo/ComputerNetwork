@@ -9,6 +9,7 @@
     * [@1.2.2 因特网的核心部分](122-因特网的核心部分.md)
   * [1.3 计算机网络](13-ji-suan-ji-wang-luo.md)
     * [1.3.1 计算机网络产生背景](13-ji-suan-ji-wang-luo/131-ji-suan-ji-wang-luo-chan-sheng-bei-jing.md)
+    * [1.3.2 计算机网络在我国的发展](13-ji-suan-ji-wang-luo/132-ji-suan-ji-wang-luo-zai-wo-guo-de-fa-zhan.md)
   * [1.4 计算机网络的类别](13-计算机网络的类别.md)
   * [1.5 计算机网络的性能](14-计算机网络的性能.md)
   * [@1.6 计算机网络的体系结构](15-计算机网络的体系结构.md)
