@@ -67,7 +67,11 @@
   * 7.6 因特网使用的安全协议
   * 7.7  链路加密与端到端加密
   * 7.8  防火墙
-* 第八章 音频视频
+* [第八章 音频视频](di-ba-zhang-yin-pin-shi-pin.md)
+  * 8.1  概述
+  * 8.2  流式存储音频/视频
+  * [8.3  交互式音频/视频](di-ba-zhang-yin-pin-shi-pin/83-jiao-hu-shi-yin-9891-shi-pin.md)
+  * [8.4  改进“尽最大努力交付”的服务](di-ba-zhang-yin-pin-shi-pin/84-gai-jin-201c-jin-zui-da-nu-li-jiao-fu-201d-de-fu-wu.md)
 * [第九章 无线网络](di-jiu-zhang-wu-xian-wang-luo.md)
   * 9.1  无线局域网 WLAN
   * 9.2  无线个人区域网 WPAN
