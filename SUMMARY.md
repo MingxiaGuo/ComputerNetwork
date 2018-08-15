@@ -3,7 +3,8 @@
 * [Introduction](README.md)
   * [大纲](da-gang.md)
 * [第一章 概述](chapter1.md)
-  * [1.1 因特网概述](因特网概述.md)
+  * [1.1 计算机网络在信息时代中的作用](11-ji-suan-ji-wang-luo-zai-xin-xi-shi-dai-zhong-de-zuo-yong.md)
+  * [1.2 因特网概述](因特网概述.md)
   * [1.2 因特网组成](12-因特网组成.md)
     * [1.2.1 因特网的边缘部分](121-因特网的边缘部分.md)
     * [@1.2.2 因特网的核心部分](122-因特网的核心部分.md)
@@ -26,7 +27,7 @@
 * [@第三章 数据链路层](di-san-zhang-shu-ju-lian-lu-ceng.md)
   * [3.1 使用点对点信道的数据链路层](di-san-zhang-shu-ju-lian-lu-ceng/31-shi-yong-dian-dui-dian-xin-dao-de-shu-ju-lian-lu-ceng.md)
   * [3.2 点对点协议PPP](di-san-zhang-shu-ju-lian-lu-ceng/32-dian-dui-dian-xie-yi-ppp.md)
-  * 3.3 使用广播信道的数据链路层
+  * [3.3 使用广播信道的数据链路层](di-san-zhang-shu-ju-lian-lu-ceng/33-shi-yong-guang-bo-xin-dao-de-shu-ju-lian-lu-ceng.md)
   * [3.4 使用广播信道的以太网](di-san-zhang-shu-ju-lian-lu-ceng/34-shi-yong-guang-bo-xin-dao-de-yi-tai-wang.md)
   * [3.5 扩展的以太网](di-san-zhang-shu-ju-lian-lu-ceng/35-kuo-zhan-de-yi-tai-wang.md)
   * [3.6 高速以太网](di-san-zhang-shu-ju-lian-lu-ceng/36-gao-su-yi-tai-wang.md)
