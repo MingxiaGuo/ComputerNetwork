@@ -25,6 +25,7 @@
     * [@2.6.2 光纤网轴混合网](262-光纤网轴混合网.md)
     * [2.6.3 FTTx技术](263-fttx技术.md)
 * [@第三章 数据链路层](di-san-zhang-shu-ju-lian-lu-ceng.md)
+  * [3.1 数据链路层基础知识](di-san-zhang-shu-ju-lian-lu-ceng/31-shu-ju-lian-lu-ceng-ji-chu-zhi-shi.md)
   * [3.1 使用点对点信道的数据链路层](di-san-zhang-shu-ju-lian-lu-ceng/31-shi-yong-dian-dui-dian-xin-dao-de-shu-ju-lian-lu-ceng.md)
   * [3.2 点对点协议PPP](di-san-zhang-shu-ju-lian-lu-ceng/32-dian-dui-dian-xie-yi-ppp.md)
   * [3.3 使用广播信道的数据链路层](di-san-zhang-shu-ju-lian-lu-ceng/33-shi-yong-guang-bo-xin-dao-de-shu-ju-lian-lu-ceng.md)
@@ -32,6 +33,7 @@
   * [3.5 扩展的以太网](di-san-zhang-shu-ju-lian-lu-ceng/35-kuo-zhan-de-yi-tai-wang.md)
   * [3.6 高速以太网](di-san-zhang-shu-ju-lian-lu-ceng/36-gao-su-yi-tai-wang.md)
   * [3.7 其他类型的高速局域网接口](di-san-zhang-shu-ju-lian-lu-ceng/37-qi-ta-lei-xing-de-gao-su-ju-yu-wang-jie-kou.md)
+* 3.1 数据链路层基础知识
 * [@第四章 网络层](第四章-网络层.md)
   * [4.1 网络层提供的两种服务](41-网络层提供的两种服务.md)
   * [4.2 网际协议IP](42-wang-ji-xie-yi-ip.md)
