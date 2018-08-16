@@ -10,5 +10,5 @@ This file file serves as your book's preface, a great place to describe your boo
 
 
 
-\[bilibili 韩立刚\]\(https://www.bilibili.com/video/av23124815/?p=3\)
+[bilibili 韩立刚](https://www.bilibili.com/video/av23124815/?p=3\)
 
