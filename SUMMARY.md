@@ -33,7 +33,6 @@
   * [3.5 扩展的以太网](di-san-zhang-shu-ju-lian-lu-ceng/35-kuo-zhan-de-yi-tai-wang.md)
   * [3.6 高速以太网](di-san-zhang-shu-ju-lian-lu-ceng/36-gao-su-yi-tai-wang.md)
   * [3.7 其他类型的高速局域网接口](di-san-zhang-shu-ju-lian-lu-ceng/37-qi-ta-lei-xing-de-gao-su-ju-yu-wang-jie-kou.md)
-* 3.1 数据链路层基础知识
 * [@第四章 网络层](第四章-网络层.md)
   * [4.1 网络层提供的两种服务](41-网络层提供的两种服务.md)
   * [4.2 网际协议IP](42-wang-ji-xie-yi-ip.md)
@@ -47,7 +46,7 @@
   * [5.2 用户数据报协议UDP](52-yong-hu-shu-ju-bao-xie-yi-udp.md)
   * [5.3 传输控制协议TCP概述](53-chuan-shu-kong-zhi-xie-yi-tcp-gai-shu.md)
   * [5.4 可靠传输的工作原理](54-ke-kao-chuan-shu-de-gong-zuo-yuan-li.md)
-  * 5.5 TCP报文段的首部格式
+  * [5.5 TCP报文段的首部格式](55-tcpbao-wen-duan-de-shou-bu-ge-shi.md)
   * [5.6 TCP可靠传输的实现](56-tcpke-kao-chuan-shu-de-shi-xian.md)
   * [5.7 TCP的流量控制](57-tcpde-liu-liang-kong-zhi.md)
   * [5.8 TCP的拥塞控制](58-tcpde-yong-sai-kong-zhi.md)
