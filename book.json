@@ -1,8 +1,7 @@
 {
-    "plugins": [
-        "mathjax",
-        "插件名称2",
-        ...
-        "最后一个插件的名称"
-    ]
+  "title": "CmputerNetwork",
+  "description": " ",
+  "isbn": "978-3-16-148410-0",
+  "language": "zh-tw",
+  "direction": "ltr"
 }
