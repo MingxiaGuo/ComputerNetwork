@@ -5,9 +5,6 @@
   "language": "zh-tw",
   "direction": "ltr"
   "plugins": [
-        "插件名称1",
-        "插件名称2",
-        ...
-        "最后一个插件的名称"
+
     ]
 }
