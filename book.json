@@ -1,13 +1,8 @@
 {
-  "title": "ComputerNetwork",
-  "description": " ",
-  "isbn": "978-3-16-148410-0",
-  "language": "zh-tw",
-  "direction": "ltr"
-}
-{
   "title": "ComputerNetwork",//标题
   "description": "demo",//文档描述
+  "isbn": "978-3-16-148410-0",
+  "direction": "ltr"
   "language": "zh",//选择编辑的语言环境
   "plugins": [ //引入需要的插件，前面有-号的为uninstall相应的插件
     "disqus",
