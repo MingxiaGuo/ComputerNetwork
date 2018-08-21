@@ -22,7 +22,7 @@
   * [2.5 数字传输系统](25-数字传输系统.md)
   * [2.6 宽带接入技术](26-宽带接入技术.md)
     * [@2.6.1 xDSL技术](261-xdsl技术.md)
-    * [@2.6.2 光纤网轴混合网](262-光纤网轴混合网.md)
+    * [2.6.2 光纤网轴混合网](262-光纤网轴混合网.md)
     * [2.6.3 FTTx技术](263-fttx技术.md)
 * [@第三章 数据链路层](di-san-zhang-shu-ju-lian-lu-ceng.md)
   * [3.1 数据链路层基础知识](di-san-zhang-shu-ju-lian-lu-ceng/31-shu-ju-lian-lu-ceng-ji-chu-zhi-shi.md)
