@@ -37,7 +37,7 @@
   * [4.1 网络层提供的两种服务](41-网络层提供的两种服务.md)
   * [4.2 网际协议IP](42-wang-ji-xie-yi-ip.md)
   * [4.3 划分子网和构造超网](43-hua-fen-zi-wang-he-gou-zao-chao-wang.md)
-  * [4.4 网际控制保温协议ICMP](44-wang-ji-kong-zhi-bao-wen-xie-yi-icmp.md)
+  * [4.4 网际控制报文协议ICMP](44-wang-ji-kong-zhi-bao-wen-xie-yi-icmp.md)
   * [4.5 因特网的路由选择协议](yin-te-wang-de-lu-you-xuan-ze-xie-yi.md)
   * [4.6 IP多播](46-ipduo-bo.md)
   * [4.7 虚拟专用网VPN和网络地址转换NAT](47-xu-ni-zhuan-yong-wang-vpn-he-wang-luo-di-zhi-zhuan-huan-nat.md)
