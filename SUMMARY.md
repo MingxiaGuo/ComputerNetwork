@@ -52,7 +52,7 @@
   * [5.8 TCP的拥塞控制](58-tcpde-yong-sai-kong-zhi.md)
   * [5.9 TCP的运输连接管理](59-tcpde-yun-shu-lian-jie-guan-li.md)
 * [第六章 应用层](di-liu-zhang-ying-yong-ceng.md)
-  * [@6.1 域名系统DNS](di-liu-zhang-ying-yong-ceng/61-yu-ming-xi-tong-dns.md)
+  * [6.1 域名系统DNS](di-liu-zhang-ying-yong-ceng/61-yu-ming-xi-tong-dns.md)
   * [6.2 文件传输协议FTP](di-liu-zhang-ying-yong-ceng/62-wen-jian-chuan-shu-xie-yi.md)
   * [6.3 远程终端协议TELNET](di-liu-zhang-ying-yong-ceng/63-yuan-cheng-zhong-duan-xie-yi-telnet.md)
   * [6.4 万维网WWW](di-liu-zhang-ying-yong-ceng/64-wan-wei-wang-www.md)
