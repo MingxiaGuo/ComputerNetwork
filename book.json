@@ -4,7 +4,6 @@
   "isbn": "978-3-16-148410-0",
   "direction": "ltr",
   "plugins":[
-    "katex",
     "expandable-chapters-small",
     "emphasize",
     "-lunr", "-search", "search-pro-kui"
