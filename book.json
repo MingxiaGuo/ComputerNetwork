@@ -6,7 +6,7 @@
   "plugins":[
     "katex",
     "expandable-chapters-small",
-    "emphasize"
+    "emphasize",
     "-lunr", "-search", "search-pro-kui"
   ] 
 
